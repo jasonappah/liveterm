@@ -1,0 +1,10 @@
+{
+  "name": "liveterm",
+  "version": "0.0.1",
+  "description": "Live streaming from your terminal",
+  "main": "index.js",
+  "repository": "https://github.com/jasonappah/liveterm.git",
+  "author": "Jason Antwi-Appah <hey@jasonaa.me>",
+  "license": "MIT",
+  "private": false
+}
